@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 4
+- **Total Problems Solved:** 5
 - **Easy:** 1 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1946134115/) | 🟢 Easy | python3 | 2026-03-12 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1947970520/) | 🟡 Medium | python3 | 2026-03-14 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1943375232/) | 🟡 Medium | python3 | 2026-03-10 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
 
