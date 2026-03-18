@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 7
+- **Total Problems Solved:** 8
 - **Easy:** 1 🟢
-- **Medium:** 5 🟡
+- **Medium:** 6 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1947970520/) | 🟡 Medium | python3 | 2026-03-14 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1943375232/) | 🟡 Medium | python3 | 2026-03-10 |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | python3 | 2026-03-17 |
+| [853. Car Fleet](https://leetcode.com/problems/car-fleet/submissions/1952222495/) | 🟡 Medium | python3 | 2026-03-18 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
 
 ---
