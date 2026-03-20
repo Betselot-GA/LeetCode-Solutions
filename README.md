@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
-- **Easy:** 1 🟢
+- **Total Problems Solved:** 11
+- **Easy:** 2 🟢
 - **Medium:** 6 🟡
 - **Hard:** 3 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1946134115/) | 🟢 Easy | python3 | 2026-03-12 |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1950575919/) | 🟡 Medium | python3 | 2026-03-17 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1947970520/) | 🟡 Medium | python3 | 2026-03-14 |
