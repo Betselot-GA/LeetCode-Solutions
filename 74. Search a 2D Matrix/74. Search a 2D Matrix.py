@@ -1,7 +1,7 @@
 #
 # Problem: 74. Search a 2D Matrix
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/search-a-2d-matrix/submissions/1956136155/
+# Link: https://leetcode.com/problems/search-a-2d-matrix/
 # Language: python3
 # Date: 2026-03-22
 
@@ -33,6 +33,8 @@ class Solution:
         
 
         # return False
+
+        # treating the array as a flattened matrix
         rows, cols = len(matrix), len(matrix[0])
         left, right = 0, rows * cols - 1
 
