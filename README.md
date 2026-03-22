@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
+- **Total Problems Solved:** 16
 - **Easy:** 2 🟢
-- **Medium:** 10 🟡
+- **Medium:** 11 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1950575919/) | 🟡 Medium | python3 | 2026-03-17 |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1956178589/) | 🟡 Medium | python3 | 2026-03-22 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1947970520/) | 🟡 Medium | python3 | 2026-03-14 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1943375232/) | 🟡 Medium | python3 | 2026-03-10 |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | python3 | 2026-03-17 |
