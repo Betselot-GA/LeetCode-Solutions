@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
+- **Total Problems Solved:** 15
 - **Easy:** 2 🟢
-- **Medium:** 9 🟡
+- **Medium:** 10 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1955168982/) | 🟡 Medium | python3 | 2026-03-21 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1956107213/) | 🟡 Medium | python3 | 2026-03-22 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1956136155/) | 🟡 Medium | python3 | 2026-03-22 |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | python3 | 2026-03-22 |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/submissions/1952222495/) | 🟡 Medium | python3 | 2026-03-18 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1953474149/) | 🔴 Hard | python3 | 2026-03-19 |
