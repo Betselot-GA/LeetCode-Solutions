@@ -1,37 +1,29 @@
 #
 # Problem: 33. Search in Rotated Sorted Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1957204622/
+# Link: https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/
 # Language: python3
-# Date: 2026-03-23
+# Date: 2026-03-25
 
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        l, r = 0, len(nums) - 1
+        left, right = 0, len(nums)-1
+        dict_nums = {}
 
-        while l < r:
-            m = (l + r) // 2
-            if nums[m] > nums[r]:
-                l = m + 1
+        for i in range(len(nums)):
+            dict_nums[nums[i]] = i
+
+        nums.sort()
+        while left <= right:
+            mid = (left + right)//2
+            if target < nums[mid]:
+                right = mid - 1
+            elif target > nums[mid]:
+                left = mid + 1
             else:
-                r = m
+                return dict_nums[nums[mid]]
+        return -1
 
-        pivot = l
 
-        def binary_search(left: int, right: int) -> int:
-            while left <= right:
-                mid = (left + right) // 2
-                if nums[mid] == target:
-                    return mid
-                elif nums[mid] < target:
-                    left = mid + 1
-                else:
-                    right = mid - 1
-            return -1
-
-        result = binary_search(0, pivot - 1)
-        if result != -1:
-            return result
-
-        return binary_search(pivot, len(nums) - 1)
+        
