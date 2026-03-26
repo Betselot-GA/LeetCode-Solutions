@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 21
-- **Easy:** 2 🟢
+- **Total Problems Solved:** 22
+- **Easy:** 3 🟢
 - **Medium:** 15 🟡
 - **Hard:** 4 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959992333/) | 🟢 Easy | python3 | 2026-03-26 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1946134115/) | 🟢 Easy | python3 | 2026-03-12 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
