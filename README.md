@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 2 🟢
 - **Medium:** 15 🟡
-- **Hard:** 3 🔴
+- **Hard:** 4 🔴
 
 ## 📝 Problems
 
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | python3 | 2026-03-22 |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/submissions/1952222495/) | 🟡 Medium | python3 | 2026-03-18 |
 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/submissions/1959000137/) | 🟡 Medium | python3 | 2026-03-25 |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1959927182/) | 🔴 Hard | python3 | 2026-03-26 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1953474149/) | 🔴 Hard | python3 | 2026-03-19 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1953875561/) | 🔴 Hard | python3 | 2026-03-20 |
