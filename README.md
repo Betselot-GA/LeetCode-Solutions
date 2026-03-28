@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 24
+- **Total Problems Solved:** 25
 - **Easy:** 4 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1956178589/) | 🟡 Medium | python3 | 2026-03-22 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/1947970520/) | 🟡 Medium | python3 | 2026-03-14 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1961307730/) | 🟡 Medium | python3 | 2026-03-27 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1962259980/) | 🟡 Medium | python3 | 2026-03-28 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1957204622/) | 🟡 Medium | python3 | 2026-03-23 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/) | 🟡 Medium | python3 | 2026-03-25 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/) | 🟡 Medium | python3 | 2026-03-25 |
