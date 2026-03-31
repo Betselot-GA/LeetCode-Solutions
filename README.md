@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 4 🟢
 - **Medium:** 19 🟡
-- **Hard:** 4 🔴
+- **Hard:** 5 🔴
 
 ## 📝 Problems
 
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/submissions/1959000137/) | 🟡 Medium | python3 | 2026-03-25 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1959927182/) | 🔴 Hard | python3 | 2026-03-26 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/1965324766/) | 🔴 Hard | python3 | 2026-03-31 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1953474149/) | 🔴 Hard | python3 | 2026-03-19 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1953875561/) | 🔴 Hard | python3 | 2026-03-20 |
 
