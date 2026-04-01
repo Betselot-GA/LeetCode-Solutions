@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
+- **Total Problems Solved:** 29
 - **Easy:** 4 🟢
 - **Medium:** 19 🟡
-- **Hard:** 5 🔴
+- **Hard:** 6 🔴
 
 ## 📝 Problems
 
@@ -36,6 +36,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | python3 | 2026-03-22 |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/submissions/1952222495/) | 🟡 Medium | python3 | 2026-03-18 |
 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/submissions/1959000137/) | 🟡 Medium | python3 | 2026-03-25 |
+| [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/1966315912/) | 🔴 Hard | python3 | 2026-04-01 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1959927182/) | 🔴 Hard | python3 | 2026-03-26 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1945472962/) | 🔴 Hard | python3 | 2026-03-11 |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/1965324766/) | 🔴 Hard | python3 | 2026-03-31 |
