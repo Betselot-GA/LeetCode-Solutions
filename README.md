@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 32
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 33
+- **Easy:** 8 🟢
 - **Medium:** 19 🟡
 - **Hard:** 6 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1967260619/) | 🟢 Easy | python3 | 2026-04-03 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1994825692/) | 🟢 Easy | python3 | 2026-05-04 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1968084908/) | 🟢 Easy | python3 | 2026-04-03 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1994851440/) | 🟢 Easy | python3 | 2026-05-04 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1950575919/) | 🟡 Medium | python3 | 2026-03-17 |
