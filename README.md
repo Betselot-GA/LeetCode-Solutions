@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
-- **Easy:** 8 🟢
+- **Total Problems Solved:** 34
+- **Easy:** 9 🟢
 - **Medium:** 19 🟡
 - **Hard:** 6 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959992333/) | 🟢 Easy | python3 | 2026-03-26 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959992333/) | 🟢 Easy | python3 | 2026-03-26 |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1995722133/) | 🟢 Easy | python3 | 2026-05-05 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1946134115/) | 🟢 Easy | python3 | 2026-03-12 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1967260619/) | 🟢 Easy | python3 | 2026-04-03 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1994825692/) | 🟢 Easy | python3 | 2026-05-04 |
