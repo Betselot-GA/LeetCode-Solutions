@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 34
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 35
+- **Easy:** 10 🟢
 - **Medium:** 19 🟡
 - **Hard:** 6 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1946134115/) | 🟢 Easy | python3 | 2026-03-12 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1967260619/) | 🟢 Easy | python3 | 2026-04-03 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1994825692/) | 🟢 Easy | python3 | 2026-05-04 |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2110675151/) | 🟢 Easy | python3 | 2026-08-17 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1968084908/) | 🟢 Easy | python3 | 2026-04-03 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1994851440/) | 🟢 Easy | python3 | 2026-05-04 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
