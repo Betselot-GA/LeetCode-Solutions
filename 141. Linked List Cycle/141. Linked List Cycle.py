@@ -1,9 +1,9 @@
 #
 # Problem: 141. Linked List Cycle
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/linked-list-cycle/submissions/1995722133/
+# Link: https://leetcode.com/problems/linked-list-cycle/submissions/2112037669/
 # Language: python3
-# Date: 2026-05-05
+# Date: 2026-08-18
 
 
 # Definition for singly-linked list.
@@ -15,11 +15,12 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         slow, fast = head, head
-
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
             if slow == fast:
                 return True
         return False
+
+
         
