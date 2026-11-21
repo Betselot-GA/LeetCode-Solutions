@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
-- **Easy:** 13 🟢
+- **Total Problems Solved:** 40
+- **Easy:** 14 🟢
 - **Medium:** 20 🟡
 - **Hard:** 6 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2200272482/) | 🟢 Easy | python3 | 2026-11-21 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959992333/) | 🟢 Easy | python3 | 2026-03-26 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959992333/) | 🟢 Easy | python3 | 2026-03-26 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1995722133/) | 🟢 Easy | python3 | 2026-05-05 |
