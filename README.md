@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 38
-- **Easy:** 12 🟢
+- **Total Problems Solved:** 39
+- **Easy:** 13 🟢
 - **Medium:** 20 🟡
 - **Hard:** 6 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1968084908/) | 🟢 Easy | python3 | 2026-04-03 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1994851440/) | 🟢 Easy | python3 | 2026-05-04 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2110709679/) | 🟢 Easy | python3 | 2026-08-17 |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/2200264109/) | 🟢 Easy | python3 | 2026-11-21 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1953893200/) | 🟢 Easy | python3 | 2026-03-20 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1943926972/) | 🟡 Medium | python3 | 2026-03-10 |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/submissions/2112016502/) | 🟡 Medium | python3 | 2026-08-18 |
