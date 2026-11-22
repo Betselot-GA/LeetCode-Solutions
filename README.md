@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 14 🟢
-- **Medium:** 20 🟡
+- **Medium:** 21 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -39,6 +39,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/) | 🟡 Medium | python3 | 2026-03-25 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1943375232/) | 🟡 Medium | python3 | 2026-03-10 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1963295653/) | 🟡 Medium | python3 | 2026-03-29 |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2201497525/) | 🟡 Medium | python3 | 2026-11-22 |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/1964319422/) | 🟡 Medium | python3 | 2026-03-30 |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | python3 | 2026-03-17 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1955168982/) | 🟡 Medium | python3 | 2026-03-21 |
