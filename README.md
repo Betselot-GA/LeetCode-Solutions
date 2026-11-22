@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 14 🟢
-- **Medium:** 21 🟡
+- **Medium:** 22 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1957204622/) | 🟡 Medium | python3 | 2026-03-23 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/) | 🟡 Medium | python3 | 2026-03-25 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1958950709/) | 🟡 Medium | python3 | 2026-03-25 |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/2201506653/) | 🟡 Medium | python3 | 2026-11-22 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1943375232/) | 🟡 Medium | python3 | 2026-03-10 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1963295653/) | 🟡 Medium | python3 | 2026-03-29 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/2201497525/) | 🟡 Medium | python3 | 2026-11-22 |
